@@ -22,3 +22,4 @@ choco install openjdk -fy
 choco install openjdk11 -fy
 choco install git -fy
 choco install nodejs -fy
+choco install wsl-ubuntu-2004 -fy
